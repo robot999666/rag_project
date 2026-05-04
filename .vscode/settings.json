@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "D:/anaconda3/envs/campus_rag/Lib/site-packages"
+    ]
+}

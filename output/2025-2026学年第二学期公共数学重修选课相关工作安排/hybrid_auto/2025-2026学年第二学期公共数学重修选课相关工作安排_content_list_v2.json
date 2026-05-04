@@ -1,0 +1,442 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2025-2026 学年第二学期公共数学课"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                275,
+                105,
+                722,
+                128
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "重修选课、管理工作安排"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                347,
+                158,
+                648,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为加强重修学生的教学及管理，本学期（2025-2026学年春季学期）数科院开设的公共数学课重修生选课具体安排如下："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                196,
+                850,
+                240
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、课程安排"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                191,
+                255,
+                342,
+                275
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、高等数学重修"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                186,
+                288,
+                346,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在良乡开设的各类高等数学课程有：高等数学 A-2、高等数学 B-2、高等数学 C-2。为便于高年级学生选课，我院为部分课程专门开设独立的重修课堂（本部），重修以上课程的同学请注意以下三点："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                316,
+                853,
+                390
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）所有需要重修的学生，均需在教务系统中选课，请同学们在补退选时间内自行上网选课，数科院不收纸制申请表。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）单独开设重修班的课堂信息有（在校本部开设）："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                400,
+                850,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高等数学 2 课程序号：3050131.04"
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                483,
+                584,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高等数学 A-2 课程序号：3050302.05"
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                511,
+                571,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高等数学 B-2 课程序号：3050304.05"
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                539,
+                571,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重修上述课程的学生选课成功后，教务系统中的上课时间地点（请在选课所有阶段结束后查询本人课表）即为本门课每周的答疑辅导的安排（不上课只答疑辅导）。所有选了课的同学，请在第 3 周的上课时间，到相应教室参加第一次的讲座，将有专人讲解本课程重修的具体安排及要求。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                565,
+                853,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（3）高等数学 C-2 在本部没有开设重修班，重修的学生需跟着良乡正常课堂选课（如不能去良乡上课，可申请自修）。选课成功后务必跟任课老师联系加入课程群，以保证及时接收到任课老师的相关信息，按照任课老师要求完成作业、测试等学习任务，期末在本部参加考试。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                678,
+                850,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、线性代数重修"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                184,
+                816,
+                346,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "线性代数重修课堂：课程序号3050305.03。所有重修线性代数课程的学生，均需在教务系统中选课，请同学们在补退选时间内自行上网选课，数科院不收纸"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                844,
+                853,
+                892
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3、概率与数理统计重修课堂：课程序号 3050306.09（2019 级-2022 级学生选）；2023级重修生可根据自己的情况在其他两个正常课堂中选一个课堂跟着重修。需要重修该课程的学生，均需在教务系统中选课，请同学们在补退选时间内自行上网选课，数科院不收纸制申请表。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                145,
+                852,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重修课程选课成功后，若学生此时间段无课程冲突，按学校相关规定，必须到教室跟随老师上课；有课程冲突的学生可跟任课老师提交书面申请自修（个人申请+课表显示冲突的证明），按照任课老师要求完成作业、测试等学习任务。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                284,
+                853,
+                360
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、上课要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                193,
+                399,
+                339,
+                419
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1、公共数学重修课堂学生：完成重修课程的基本要求，参加每一次的辅导，参加阶段性考试考查等可记平时成绩，否则没有平时成绩。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2、跟随正常班重修的学生：须按任课教师要求完成课程教学的各个环节。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3、选课成功后，因课程冲突申请自修的学生：自学重修的学生须按任课教师要求完成重修课程的基本环节（交作业、参加各类阶段考试考查），完成则记入平时成绩，否则平时成绩以 0分计。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                432,
+                850,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公共数学重修课堂学生（高等数学 2、高等数学 A-2、高等数学 B-2、线性代数），我院助教在后面的答疑辅导工作中的所有通知和要求，都将通过第一次讲座、以及大家认可的联系方式（如企业微信群）通知，请各位同学务必加群、置顶并及时查看信息。因本人未参加第一次讲座，未加群或未及时查收信息，导致的所有后果由学生本人负责。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                599,
+                853,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意：1、重修选课时间为校历第 1-2 周（3月 4 日开始），2 周后选课工作结束。2、本学期数科院开设的重修课，一律由学生本人上网选课，不收纸制申请书。3、数科院本科教秘联系方式：朱梅，01068901381，可企业微信或电话联系。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                738,
+                850,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数学科学学院"
+                    }
+                ]
+            },
+            "bbox": [
+                722,
+                848,
+                848,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2026 年 3 月 3 日"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                876,
+                847,
+                894
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "制申请表。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                90,
+                253,
+                107
+            ]
+        }
+    ]
+]

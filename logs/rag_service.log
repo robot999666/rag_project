@@ -1,0 +1,214 @@
+2026-04-10 21:02:16,081 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-10 21:02:40,011 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:03:06,395 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:03:14,177 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:12:59,129 - CampusRAG - INFO - 初始化 RAG 引擎...
+2026-04-10 21:12:59,229 - CampusRAG - INFO - 检测到设备: cuda
+2026-04-10 21:12:59,231 - CampusRAG - INFO - 配置参数: MIN_SCORE=0.35, TOP_N=3
+2026-04-10 21:12:59,231 - CampusRAG - INFO - 初始化对话记忆，容量: 10 条
+2026-04-10 21:13:20,633 - CampusRAG - INFO - 正在检索文档: '电动自行车锂电池免费健康评估12月29日在哪里进行？...'
+2026-04-10 21:13:20,633 - CampusRAG - INFO - 初始化向量数据库: C:\Users\Robot\Desktop\campus_rag_project\chroma_db
+2026-04-10 21:13:20,633 - CampusRAG - INFO - 加载嵌入模型: BAAI/bge-m3
+2026-04-10 21:13:31,054 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-10 21:13:47,048 - CampusRAG - INFO - 嵌入模型加载成功
+2026-04-10 21:13:47,284 - CampusRAG - INFO - 向量库加载成功，包含 62 个文档
+2026-04-10 21:13:47,769 - CampusRAG - INFO - 检索完成，返回 2 个文档
+2026-04-10 21:13:47,770 - CampusRAG - INFO - 初始化LLM: qwen-plus
+2026-04-10 21:13:48,335 - CampusRAG - INFO - LLM初始化成功
+2026-04-10 21:13:53,706 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:13:58,990 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:13:58,992 - CampusRAG - INFO - 正在检索文档: '电动自行车锂电池免费健康评估包含哪些检测项目或内容？...'
+2026-04-10 21:13:59,155 - CampusRAG - INFO - 检索完成，返回 2 个文档
+2026-04-10 21:14:07,308 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:15:07,616 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:15:07,617 - CampusRAG - INFO - 正在检索文档: '电动自行车锂电池免费健康评估具体检测项目和内容...'
+2026-04-10 21:15:07,778 - CampusRAG - INFO - 检索完成，返回 3 个文档
+2026-04-10 21:15:16,522 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:17:06,439 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:17:06,439 - CampusRAG - INFO - 正在检索文档: 'FoundationPose 论文《FoundationPo...'
+2026-04-10 21:17:06,609 - CampusRAG - INFO - 检索完成，返回 2 个文档
+2026-04-10 21:17:23,797 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:19:08,326 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:19:08,327 - CampusRAG - INFO - 正在检索文档: 'Hanyuan Zhang等人的论文《FoundationP...'
+2026-04-10 21:19:08,605 - CampusRAG - INFO - 检索完成，返回 0 个文档
+2026-04-10 21:19:08,605 - CampusRAG - WARNING - 未检索到相关文档，使用通用知识回答
+2026-04-10 21:19:23,161 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:19:38,820 - CampusRAG - INFO - 程序已安全退出
+2026-04-10 21:43:08,615 - CampusRAG - INFO - 初始化 RAG 引擎...
+2026-04-10 21:43:08,655 - CampusRAG - INFO - 检测到设备: cuda
+2026-04-10 21:43:08,656 - CampusRAG - INFO - 配置参数: MIN_SCORE=0.35, TOP_N=3
+2026-04-10 21:43:08,657 - CampusRAG - INFO - 初始化对话记忆，容量: 10 条
+2026-04-10 21:43:15,244 - CampusRAG - INFO - 正在检索文档: '本科生 2024 级初教（音美、书法）专业学生，大二春学期的...'
+2026-04-10 21:43:15,244 - CampusRAG - INFO - 初始化向量数据库: C:\Users\Robot\Desktop\rag_project\chroma_db
+2026-04-10 21:43:15,244 - CampusRAG - INFO - 加载嵌入模型: BAAI/bge-m3
+2026-04-10 21:43:34,098 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-10 21:44:03,957 - CampusRAG - INFO - 嵌入模型加载成功
+2026-04-10 21:44:04,107 - CampusRAG - INFO - 向量库加载成功，包含 76 个文档
+2026-04-10 21:44:04,300 - CampusRAG - INFO - 检索完成，返回 0 个文档
+2026-04-10 21:44:04,301 - CampusRAG - WARNING - 未检索到相关文档，使用通用知识回答
+2026-04-10 21:44:04,301 - CampusRAG - INFO - 初始化LLM: qwen-plus
+2026-04-10 21:44:04,857 - CampusRAG - INFO - LLM初始化成功
+2026-04-10 21:44:08,039 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:44:13,453 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:44:13,454 - CampusRAG - INFO - 正在检索文档: '2024级海淀校区本科生高阶课程（10门以上）课程名称清单...'
+2026-04-10 21:44:13,618 - CampusRAG - INFO - 检索完成，返回 0 个文档
+2026-04-10 21:44:13,618 - CampusRAG - WARNING - 未检索到相关文档，使用通用知识回答
+2026-04-10 21:44:18,747 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:44:47,594 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:44:47,596 - CampusRAG - INFO - 正在检索文档: '2025-2026学年春季学期线性代数重修选课流程及纸质申请...'
+2026-04-10 21:44:47,761 - CampusRAG - INFO - 检索完成，返回 1 个文档
+2026-04-10 21:44:54,520 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:45:21,031 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:45:21,032 - CampusRAG - INFO - 正在检索文档: '电动自行车锂电池免费健康评估 2024年12月29日 海淀校...'
+2026-04-10 21:45:21,196 - CampusRAG - INFO - 检索完成，返回 3 个文档
+2026-04-10 21:45:27,338 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:45:35,374 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:45:35,375 - CampusRAG - INFO - 正在检索文档: '电动自行车锂电池免费健康评估具体内容项目...'
+2026-04-10 21:45:35,533 - CampusRAG - INFO - 检索完成，返回 2 个文档
+2026-04-10 21:45:42,739 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:07,470 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:07,471 - CampusRAG - INFO - 正在检索文档: '半球面上Laplace算子非零Neumann特征值的Ashb...'
+2026-04-10 21:46:07,695 - CampusRAG - INFO - 检索完成，返回 3 个文档
+2026-04-10 21:46:15,068 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:43,898 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:43,899 - CampusRAG - INFO - 正在检索文档: '基于 Spring Boot 和 Vue 的地质信息智能抽取...'
+2026-04-10 21:46:44,065 - CampusRAG - INFO - 检索完成，返回 1 个文档
+2026-04-10 21:46:49,599 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:58,815 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:46:58,816 - CampusRAG - INFO - 正在检索文档: '该系统数据库选用的核心存储是 **MySQL**；选择原因包...'
+2026-04-10 21:46:59,028 - CampusRAG - INFO - 检索完成，返回 1 个文档
+2026-04-10 21:47:08,167 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-10 21:47:17,875 - CampusRAG - INFO - 程序已安全退出
+2026-04-17 18:57:59,931 - CampusRAG - INFO - ⚙️ 初始化 RAG 引擎核心模块...
+2026-04-17 18:58:01,764 - CampusRAG - INFO - 🎯 运行设备: cuda
+2026-04-17 18:59:04,192 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-17 18:59:22,609 - sentence_transformers.base.model - INFO - No modules.json found for BAAI/bge-reranker-base, initializing a new CrossEncoder model.
+2026-04-17 19:03:18,840 - CampusRAG - ERROR - ⚠️ Reranker 加载失败: ('Connection broken: IncompleteRead(351851663 bytes read, 760354477 more expected)', IncompleteRead(351851663 bytes read, 760354477 more expected))
+2026-04-17 19:03:18,843 - CampusRAG - INFO - 🎯 最终入选文档数: 0
+2026-04-17 19:03:31,642 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:04:21,287 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:04:21,288 - CampusRAG - INFO - 🔍 查询改写: 2602.17517v1NICP这篇论文的消融实验的内容和目的是什么？ -> arXiv预印本论文“2602.17517v1”（标题含“NICP”）中消融实验的具体内容（如被移除/替换的模块、对比设置、评估指标及结果）及其科学目的（例如验证哪些组件的有效性或必要性）是什么？
+2026-04-17 19:04:21,980 - sentence_transformers.base.model - INFO - No modules.json found for BAAI/bge-reranker-base, initializing a new CrossEncoder model.
+2026-04-17 19:05:46,360 - CampusRAG - INFO - ✅ 重排模型 CrossEncoder 加载完毕
+2026-04-17 19:05:46,360 - CampusRAG - ERROR - 检索重排链路故障: 'HuggingFaceCrossEncoder' object has no attribute 'model'
+Traceback (most recent call last):
+  File "d:\recent\rag_project\scripts\query_fail.py", line 166, in retrieve_and_rerank
+    logits = self.reranker.model.predict(pairs)
+  File "D:\anaconda3\envs\rag\lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'HuggingFaceCrossEncoder' object has no attribute 'model'
+2026-04-17 19:06:02,415 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:11:08,182 - CampusRAG - INFO - ⚙️ 初始化 RAG 引擎核心模块...
+2026-04-17 19:11:09,983 - CampusRAG - INFO - 🎯 运行设备: cuda
+2026-04-17 19:11:34,480 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-17 19:11:58,932 - sentence_transformers.base.model - INFO - No modules.json found for BAAI/bge-reranker-base, initializing a new CrossEncoder model.
+2026-04-17 19:12:12,369 - CampusRAG - INFO - ✅ 重排模型 CrossEncoder 加载完毕
+2026-04-17 19:12:12,370 - CampusRAG - ERROR - 检索重排链路故障: 'HuggingFaceCrossEncoder' object has no attribute 'predict'
+Traceback (most recent call last):
+  File "d:\recent\rag_project\scripts\query_fail.py", line 166, in retrieve_and_rerank
+    logits = self.reranker.predict(pairs)
+  File "D:\anaconda3\envs\rag\lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'HuggingFaceCrossEncoder' object has no attribute 'predict'
+2026-04-17 19:12:24,995 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:18:31,887 - CampusRAG - INFO - ⚙️ 初始化 RAG 引擎核心模块...
+2026-04-17 19:18:33,737 - CampusRAG - INFO - 🎯 运行设备: cuda
+2026-04-17 19:19:15,265 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-17 19:19:42,394 - sentence_transformers.base.model - INFO - No modules.json found for BAAI/bge-reranker-base, initializing a new CrossEncoder model.
+2026-04-17 19:19:55,538 - CampusRAG - INFO - ✅ 重排模型 CrossEncoder 加载完毕
+2026-04-17 19:19:55,965 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 19:20:13,166 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:23:42,263 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:23:42,265 - CampusRAG - INFO - 🔍 查询改写: 我想问的是Ablation Studies -> 什么是消融研究（Ablation Study），其在机器学习或计算机视觉论文中的主要目的、常见实施方法和结果解读方式是什么？
+2026-04-17 19:23:42,724 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 19:24:10,142 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:29:57,470 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:29:57,471 - CampusRAG - INFO - 🔍 查询改写: 首都师范大学海淀校区电动自行车锂电池免费健康评估遇问题，拨打哪一个联系电话？ -> 首都师范大学海淀校区开展的电动自行车锂电池免费健康评估服务，应拨打哪个官方联系电话进行咨询或预约？
+2026-04-17 19:29:58,020 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 19:30:11,221 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:32:33,889 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:32:33,891 - CampusRAG - INFO - 🔍 查询改写: 在温馨提示里，有没有相关的联系电话呢？ -> 在首都师范大学海淀校区电动自行车锂电池免费健康评估活动的温馨提示中，是否公布了相关联系电话？
+2026-04-17 19:32:34,381 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 19:32:46,992 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:36:27,970 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 19:36:27,971 - CampusRAG - INFO - 🔍 查询改写: 这个评估日期，我周一去，应该选择什么评估时间和评估地点呢？ -> 首都师范大学海淀校区电动自行车锂电池免费健康评估活动的评估日期为周一，我应在什么时间段、前往哪个具体地点参加评估？
+2026-04-17 19:36:28,468 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 19:36:42,772 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:07:49,638 - CampusRAG - INFO - ⚙️ 初始化 RAG 引擎核心模块...
+2026-04-17 21:07:51,463 - CampusRAG - INFO - 🎯 运行设备: cuda
+2026-04-17 21:27:01,983 - sentence_transformers.base.model - INFO - Loading SentenceTransformer model from BAAI/bge-m3.
+2026-04-17 21:27:25,453 - sentence_transformers.base.model - INFO - No modules.json found for BAAI/bge-reranker-base, initializing a new CrossEncoder model.
+2026-04-17 21:27:38,935 - CampusRAG - INFO - ✅ 重排模型 CrossEncoder 加载完毕
+2026-04-17 21:27:39,351 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:28:01,263 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:28:59,511 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:28:59,513 - CampusRAG - INFO - 🔍 查询改写: 三、按要求完成题目。（本大题共3小题，第1小题8分，第2小题9分，第3小题8分；共25分）1.按要求变新字再组词。（本题共4小题，每小题2分，共8分）加一笔：人→（ ） -> 加一笔：人→（ ）
+2026-04-17 21:29:00,074 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:29:10,296 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:29:50,422 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:29:50,423 - CampusRAG - INFO - 🔍 查询改写: 3.口语交际，选择合适的词语填空。（本题共4小题，每小题2分，共8分）(1)早上好(2)请（1）有事请人帮忙，你要说：“(1) 谢谢(2)对不起（2）别人帮助里你，你要说：“(1)来啦②早上好（3）早上上学见到老师，你要说：“老师，(1)对不起(2)没关系（4）你不小心弄坏同桌的铅笔，你要说：“________。” -> 3. 口语交际：请从括号中选择合适的词语填入横线处。（本题共4小题，每小题2分，共8分）  
+（1）有事请人帮忙，你要说：“______”。（备选：① 谢谢　② 对不起）  
+（2）别人帮助了你，你要说：“______”。（备选：① 来啦　② 早上好）  
+（3）早上上学见到老师，你要说：“老师，______”。（备选：① 对不起　② 没关系）  
+（4）你不小心弄坏了同桌的铅笔，你要说：“______”。（备选：① 早上好　② 对不起）
+2026-04-17 21:29:50,867 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:30:05,253 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:30:19,612 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:30:19,614 - CampusRAG - INFO - 🔍 查询改写: 四、阅读短文，回答问题。（本大题共4小题，第1小题2分，第2小题3分，第3小题3分，第4小题2分；本大题共10分）chi péng gē翅膀歌yàn zǐ shì chūntiān de chì páng燕子是春天的翅膀。qingting shi xià tiān de chi páng蜻蜓是夏天的翅膀。da yan shi qiu tian de chipang大雁是秋天的翅膀。xuehua shidongtian dechipang雪花是冬天的翅膀。Ii xiang shi wom de chi pang理想是我们的翅膀，zhàn chí xiàng wèi lái fēi xiáng展翅向未来飞翔。1.这首儿歌共有（5）句话。（2分）2.这首儿歌中出现的小动物有哪些？用“○”圈出来。（3分）○燕子 ○蜻蜓 ○大雁3.儿歌中出现了哪几个季节？（①②③④）（多选题）（3分）①春天(2)夏天③秋天④冬天4.什么是“我们”的翅膀？请你用“____”画出来。（2分）理想是我们的翅膀 -> 四、阅读短文《翅膀歌》，回答问题。（本大题共4小题，第1小题2分，第2小题3分，第3小题3分，第4小题2分；共10分）  
+短文内容：  
+chi péng gē 翅膀歌  
+yàn zǐ shì chūntiān de chì páng 燕子是春天的翅膀。  
+qingting shi xià tiān de chi páng 蜻蜓是夏天的翅膀。  
+da yan shi qiu tian de chipang 大雁是秋天的翅膀。  
+xuehua shidongtian dechipang 雪花是冬天的翅膀。  
+Ii xiang shi wom de chi pang 理想是我们的翅膀，  
+zhàn chí xiàng wèi lái fēi xiáng 展翅向未来飞翔。  
+
+1. 这首儿歌共有几句话？（2分）  
+2. 这首儿歌中出现的小动物有哪些？请用“○”圈出来。（3分）  
+○燕子　○蜻蜓　○大雁  
+3. 儿歌中提到了哪几个季节？（多选题，将正确选项的序号填在括号内）（3分）  
+①春天　②夏天　③秋天　④冬天  
+4. 短文中哪一句指出“我们”的翅膀是什么？请用“____”画出该句。（2分）
+2026-04-17 21:30:20,087 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:30:42,371 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:30:49,442 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:30:49,444 - CampusRAG - INFO - 🔍 查询改写: FoundationPose-Initialized 3D–2D Liver Registration for Surgical Augmented Reality论文中的消融实验的内容是什么？ -> 《FoundationPose-Initialized 3D–2D Liver Registration for Surgical Augmented Reality》这篇论文中消融实验的具体内容是什么？
+2026-04-17 21:30:49,806 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:31:00,431 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:31:44,897 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:31:44,899 - CampusRAG - INFO - 🔍 查询改写: 回声贩卖者穿行在哪里？ -> 回声贩卖者穿行在哪里？
+2026-04-17 21:31:45,418 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:31:54,836 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:32:16,860 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:32:16,861 - CampusRAG - INFO - 🔍 查询改写: 关于2025---2026学年春 学期 大英部选课须知中，本科生 2024 级初教（音美、书法）专业学生，大二春学期的英语修读要求是什么？ -> 2025—2026学年春季学期，本科生2024级初等教育专业（音乐美术方向、书法方向）学生在大二春季学期的大学英语课程修读要求是什么？
+2026-04-17 21:32:17,242 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:32:38,902 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:04,245 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:04,247 - CampusRAG - INFO - 🔍 查询改写: 2024 级海淀校区本科生 10 余门高阶课程名称有哪些？ -> 2024级海淀校区本科生可修读的10余门高阶课程（如《人工智能导论》《数据结构与算法分析》《量子力学基础》《认知神经科学》《环境政策与可持续发展》《高级微观经济学》《中国现当代文学专题研究》《生物信息学》《材料物理与化学》《数字人文导论》等）的具体名称有哪些？
+2026-04-17 21:33:04,625 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:33:21,801 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:26,151 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:26,152 - CampusRAG - INFO - 🔍 查询改写: 资环院系英语高阶课程有两种时段为？ -> 资环院系英语高阶课程的两种授课时段是什么？
+2026-04-17 21:33:26,594 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:33:39,258 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:46,304 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:33:46,305 - CampusRAG - INFO - 🔍 查询改写: 2025-2026 学年春季学期线性代数重修如何选课？可以交纸制申请表吗？ -> 2025—2026学年春季学期线性代数课程重修应如何选课？是否接受纸质版重修申请表提交？
+2026-04-17 21:33:46,795 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:34:03,855 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:11,441 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:11,443 - CampusRAG - INFO - 🔍 查询改写: 电动自行车锂电池免费健康评估时间为12月29日评估地点在哪？ -> 电动自行车锂电池免费健康评估活动于12月29日举行，评估地点在哪里？
+2026-04-17 21:34:11,770 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:34:21,736 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:25,280 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:25,282 - CampusRAG - INFO - 🔍 查询改写: 评估内容有哪些？ -> 电动自行车锂电池免费健康评估的评估内容有哪些？
+2026-04-17 21:34:25,779 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:34:40,272 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:46,063 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:34:46,065 - CampusRAG - INFO - 🔍 查询改写: 基于 Spring Boot 和 Vue 的地质信息智能抽取与可视化系统设计与实现该系统前端选用的框架是什么？ -> 基于 Spring Boot 和 Vue 的地质信息智能抽取与可视化系统设计与实现中，该系统前端选用的框架是什么？
+2026-04-17 21:34:46,578 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:34:59,987 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:35:05,296 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-17 21:35:05,298 - CampusRAG - INFO - 🔍 查询改写: 该系统数据库选用的核心存储是什么？选择它的原因有哪些？ -> 基于 Spring Boot 和 Vue 的地质信息智能抽取与可视化系统设计与实现中，该系统数据库选用的核心存储是什么？选择该核心存储的原因有哪些？
+2026-04-17 21:35:05,786 - CampusRAG - INFO - 🎯 最终入选文档数: 3
+2026-04-17 21:35:25,466 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,2500 @@
+[
+    {
+        "type": "text",
+        "text": "2024年第一学期第一、二单元综合测评卷一年级语文",
+        "text_level": 1,
+        "bbox": [
+            92,
+            46,
+            907,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(时间：90分 满分：100分)",
+        "bbox": [
+            287,
+            134,
+            712,
+            161
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/71453a60373f59fcbd65033299a0bd0576f0ba029a2b164527277202f73f2c50.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>题号</td><td>一</td><td>二</td><td>三</td><td>四</td><td>五</td><td>总分</td></tr><tr><td>得分</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            100,
+            165,
+            897,
+            235
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、拼音字母知识基础。（本大题共3小题，第1小题9分，第2小题10分，第3小题6分；本大题共25分）",
+        "bbox": [
+            92,
+            244,
+            939,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.根据题目按顺序填写字母。（本题共11小题，每空1分，共9分）",
+        "bbox": [
+            107,
+            304,
+            826,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b8daffb6d325e708149e8019ad46e276cf1b99b509caa4e1ea9c976b910a6ec.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            112,
+            335,
+            890,
+            414
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.照样子，把字母改写成整体认读音节。（本题共5小题，每空2分，共10分）",
+        "bbox": [
+            107,
+            422,
+            944,
+            445
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9e4be67dd701da09fe125a6786033511e3da5a24fe266a0a1a3e5ad8dc2bf3a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            453,
+            890,
+            552
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.按要求分一分。（本题共3小题，每小题2分，共6分）",
+        "bbox": [
+            109,
+            561,
+            721,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "①yu ",
+        "bbox": [
+            132,
+            590,
+            189,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$②$ yin g ",
+        "bbox": [
+            242,
+            590,
+            319,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "③W ",
+        "bbox": [
+            381,
+            590,
+            426,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "④lian g ",
+        "bbox": [
+            494,
+            590,
+            576,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑤p ",
+        "bbox": [
+            640,
+            590,
+            680,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(6)ri ",
+        "bbox": [
+            134,
+            620,
+            178,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑦quan ",
+        "bbox": [
+            235,
+            620,
+            310,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑧yun ",
+        "bbox": [
+            379,
+            621,
+            442,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑨ye ",
+        "bbox": [
+            499,
+            621,
+            549,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑩wu ",
+        "bbox": [
+            643,
+            621,
+            697,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.声母：",
+            "2.三拼音节：",
+            "3.整体认读音节："
+        ],
+        "bbox": [
+            132,
+            650,
+            584,
+            730
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、拼音音节拼写与拼读。（本大题共3小题，第1小题8分，第2小题11分，第3小题10分；共29分）",
+        "bbox": [
+            92,
+            738,
+            931,
+            789
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.拼一拼，选一选，在正确的读音后面打“√”。（本题共4小题，共8分）",
+        "bbox": [
+            107,
+            797,
+            904,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/36424c3c26952cca6451ca1ca4b3a9efc612442e36c38f3a03a9cccecbfa8247.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            115,
+            846,
+            263,
+            931
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c848fdf096462dc9c624ef41200d0e39451f19d111231b4453cca19e118b951.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            354,
+            829,
+            443,
+            936
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/43a09b0581e48881274af9924feb2333e5f1652eefb024262b58b1fffdf5782f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            576,
+            841,
+            727,
+            936
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/57c8d7f99fd817be5d4a1c4c836b02252b9ad8eab0d005ffcf179c5e9d360add.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            803,
+            832,
+            914,
+            939
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "中",
+        "bbox": [
+            13,
+            183,
+            43,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "# ",
+        "bbox": [
+            13,
+            388,
+            45,
+            434
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "班级",
+        "bbox": [
+            13,
+            592,
+            45,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "华",
+        "bbox": [
+            13,
+            810,
+            45,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "图",
+        "bbox": [
+            47,
+            234,
+            80,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            322,
+            953,
+            457,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "第1页（共8页）",
+        "bbox": [
+            505,
+            952,
+            665,
+            970
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "yǎnjìn (  ) táidēn (  ) qīng tín (  ) mì fōng (  ) ",
+        "bbox": [
+            50,
+            42,
+            944,
+            67
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "yǎn jìng ( ) táidēng ( ) qīng tíng ( ) mì fēng ( ) ",
+        "bbox": [
+            53,
+            72,
+            944,
+            96
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.读一读，填一填。（本题共9小题，每空1分，共11分）",
+        "bbox": [
+            53,
+            102,
+            678,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/15cdabd208bf68d7a95620d2aafb25edf3669827e94544659ba91301193de3f7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            63,
+            130,
+            280,
+            277
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cce67dbac5578b7e9f2834886881a19d327588ec57410797e108a9d8288f1c3e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            321,
+            130,
+            537,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9a2ad1f790ad64c92e7632647994d07ea7fed5def3f6af98e39779681b86ac6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            576,
+            131,
+            899,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.读一读下列句子，用“_”画出错误的音节并改正。（本题每空1分，共10分）",
+        "bbox": [
+            53,
+            285,
+            944,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) zì jǐ de sì qing zì jǐ zhuò. ",
+        "bbox": [
+            62,
+            313,
+            668,
+            335
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（ ）--（ ） （ ）--（ ）",
+        "bbox": [
+            100,
+            343,
+            640,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2) xiǎo wén hé dà da zài zhé zi. ",
+        "bbox": [
+            62,
+            373,
+            715,
+            393
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（ ）--（ ） （ ）--（ ） （ ）--（ ）",
+        "bbox": [
+            100,
+            401,
+            942,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、按要求完成题目。（本大题共3小题，第1小题8分，第2小题9分，第3小题8分；共25分）",
+        "text_level": 1,
+        "bbox": [
+            36,
+            432,
+            939,
+            476
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.按要求变新字再组词。（本题共4小题，每小题2分，共8分）",
+        "bbox": [
+            52,
+            488,
+            737,
+            508
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "加一笔：人→（ ）",
+        "bbox": [
+            72,
+            517,
+            431,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "口→ （ ）",
+        "bbox": [
+            569,
+            518,
+            825,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "加两笔：人→ （ ）",
+        "bbox": [
+            73,
+            575,
+            426,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "口→ （ ）",
+        "bbox": [
+            569,
+            575,
+            820,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.圈一圈，填一填。（本题共2小题，共9分）",
+        "bbox": [
+            52,
+            636,
+            544,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）从图中找到“山”“花朵”“云”，并用“◎”圈起来。（共3分）",
+        "bbox": [
+            60,
+            671,
+            788,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a2b04b9bee9d64e73c48e7c42e4692e624051901b54f146935cec53d85ab304.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            709,
+            884,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            321,
+            953,
+            457,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "第2页（共8页）",
+        "bbox": [
+            505,
+            953,
+            665,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）选择合适的量词填空。(填序号）（共6分）",
+        "bbox": [
+            63,
+            49,
+            564,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)只 ",
+        "bbox": [
+            213,
+            85,
+            270,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "②朵 ",
+        "bbox": [
+            386,
+            86,
+            440,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)座",
+        "bbox": [
+            557,
+            86,
+            610,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)条 ",
+        "bbox": [
+            726,
+            86,
+            779,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）山",
+        "bbox": [
+            100,
+            123,
+            270,
+            145
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）花",
+        "bbox": [
+            369,
+            124,
+            534,
+            145
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鸟",
+        "bbox": [
+            638,
+            124,
+            801,
+            145
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鱼",
+        "bbox": [
+            100,
+            159,
+            268,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鸡",
+        "bbox": [
+            369,
+            159,
+            536,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一（ ）云",
+        "bbox": [
+            638,
+            159,
+            801,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.口语交际，选择合适的词语填空。（本题共4小题，每小题2分，共8分）",
+        "bbox": [
+            53,
+            197,
+            860,
+            219
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)早上好 ",
+        "bbox": [
+            126,
+            234,
+            231,
+            256
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)请 ",
+        "bbox": [
+            396,
+            234,
+            448,
+            256
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）有事请人帮忙，你要说：“",
+        "bbox": [
+            63,
+            271,
+            534,
+            294
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) 谢谢 ",
+        "bbox": [
+            126,
+            307,
+            206,
+            330
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)对不起 ",
+        "bbox": [
+            396,
+            309,
+            497,
+            330
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）别人帮助里你，你要说：“",
+        "bbox": [
+            63,
+            344,
+            534,
+            368
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)来啦 ",
+        "bbox": [
+            126,
+            382,
+            206,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "②早上好",
+        "bbox": [
+            396,
+            382,
+            497,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）早上上学见到老师，你要说：“老师，",
+        "bbox": [
+            63,
+            419,
+            653,
+            442
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)对不起 ",
+        "bbox": [
+            126,
+            456,
+            231,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)没关系",
+        "bbox": [
+            396,
+            457,
+            497,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）你不小心弄坏同桌的铅笔，你要说：“________。”",
+        "bbox": [
+            63,
+            493,
+            655,
+            516
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "四、阅读短文，回答问题。（本大题共4小题，第1小题2分，第2小题3分，第3小题3分，第4小题2分；本大题共10分）",
+        "text_level": 1,
+        "bbox": [
+            40,
+            525,
+            941,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "chi péng gē ",
+        "bbox": [
+            455,
+            585,
+            539,
+            601
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "翅膀歌",
+        "bbox": [
+            455,
+            599,
+            542,
+            617
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "yàn zǐ shì chūntiān de chì páng ",
+        "bbox": [
+            374,
+            626,
+            594,
+            640
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "燕子是春天的翅膀。",
+        "bbox": [
+            376,
+            640,
+            603,
+            659
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "qingting shi xià tiān de chi páng ",
+        "bbox": [
+            378,
+            668,
+            594,
+            683
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蜻蜓是夏天的翅膀。",
+        "bbox": [
+            379,
+            682,
+            603,
+            701
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "da yan shi qiu tian de chipang ",
+        "bbox": [
+            384,
+            711,
+            589,
+            725
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大雁是秋天的翅膀。",
+        "bbox": [
+            381,
+            725,
+            601,
+            743
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "xuehua shidongtian dechipang ",
+        "bbox": [
+            374,
+            753,
+            594,
+            766
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雪花是冬天的翅膀。",
+        "bbox": [
+            376,
+            766,
+            605,
+            785
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ii xiang shi wom de chi pang ",
+        "bbox": [
+            381,
+            794,
+            598,
+            808
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "理想是我们的翅膀，",
+        "bbox": [
+            373,
+            808,
+            608,
+            827
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "zhàn chí xiàng wèi lái fēi xiáng ",
+        "bbox": [
+            381,
+            835,
+            589,
+            851
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "展翅向未来飞翔。",
+        "bbox": [
+            386,
+            850,
+            600,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.这首儿歌共有（ ）句话。（2分）",
+        "bbox": [
+            72,
+            878,
+            494,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.这首儿歌中出现的小动物有哪些？用“○”圈出来。（3分）",
+        "bbox": [
+            72,
+            907,
+            729,
+            929
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            321,
+            952,
+            458,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "第3页（共8页）",
+        "bbox": [
+            505,
+            952,
+            665,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.儿歌中出现了哪几个季节？（ ）（多选题）（3分）",
+        "bbox": [
+            72,
+            42,
+            729,
+            64
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "①春天",
+        "bbox": [
+            173,
+            72,
+            253,
+            93
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)夏天 ",
+        "bbox": [
+            371,
+            73,
+            448,
+            92
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "③秋天",
+        "bbox": [
+            566,
+            74,
+            642,
+            92
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "④冬天",
+        "bbox": [
+            761,
+            74,
+            838,
+            92
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 什么是“我们”的翅膀？请你用“ ”画出来。（2分）",
+        "bbox": [
+            72,
+            101,
+            729,
+            123
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "五、看图写话。（本大题共1小题，请将答案书写在下方的答题纸上，注意书写要清洗，卷面要整洁；本大题共9分）",
+        "bbox": [
+            38,
+            131,
+            939,
+            183
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e648a56c11c4697650b8768f15ed000285e31dee6a4e8c8a443c3e97e1166e60.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            250,
+            190,
+            678,
+            414
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "题目：观察图片，图片中是什么季节？都有谁？它们在干什么？请用几句话写下来吧。",
+        "bbox": [
+            53,
+            419,
+            939,
+            470
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d441fe8895a449ce0869794c9a715b2f1a3536867078458d54fd39caf3146d2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            476,
+            922,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            322,
+            953,
+            455,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "第4页（共8页）",
+        "bbox": [
+            505,
+            953,
+            665,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考答案",
+        "bbox": [
+            55,
+            43,
+            131,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一、拼音字母知识基础。（本大题共3小题，第1小题9分，第2小题10分，第3小题6分；本大题共25分）",
+        "text_level": 1,
+        "bbox": [
+            55,
+            65,
+            942,
+            112
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.根据题目按顺序填写字母。（本题共11小题，每空1分，共9分）",
+        "bbox": [
+            58,
+            124,
+            761,
+            146
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/daa44600a069ad2e02cf3fb094a11dd95bf0890e805f0f05cc4feaa483055737.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            58,
+            161,
+            371,
+            197
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/95c59deaf3487252871cdf33f326009e8a41e650d5fd7866e2f049d4ecdff1e8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            482,
+            161,
+            794,
+            197
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/988db351912ed702f8f0afe68e706064b2282d4a320434d0fcda05729be6ac9d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            58,
+            217,
+            480,
+            253
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/75f69479e4cf1b2eeb99098b43c19b7b65b79a36bca86180178d8f04490a2599.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            594,
+            217,
+            905,
+            253
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.照样子，把字母改写成整体认读音节。（本题共5小题，每空2分，共10分）",
+        "bbox": [
+            55,
+            272,
+            875,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "例：c→ C i",
+        "bbox": [
+            55,
+            309,
+            245,
+            348
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3890384cf8868f57eccebff6a08feefbd9d08bcddbfebef16054349a910d4dd5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            309,
+            515,
+            347
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42f71f5d12340e4f37f8b09c47b358a5c96f7f7317951430ae7449d3b485bbc1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            680,
+            309,
+            821,
+            347
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3331203b8e9ba2ea0dd7ee791947f94503b77084f486c194c694913e45501f1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            366,
+            245,
+            401
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/53ac822b1cbccf1e81c340a7db5cf4c0e81dd997fbc5c663ad7275bdae6332cd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            373,
+            366,
+            514,
+            401
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42824f11ca5192c962a4f4fd8905822895a44514cfaca5cf3d84fe0ebfb8ab9d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            680,
+            366,
+            821,
+            401
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. 按要求分一分。（本题共3小题，每小题2分，共6分）",
+        "bbox": [
+            55,
+            420,
+            652,
+            441
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "①yu ",
+        "bbox": [
+            242,
+            457,
+            295,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)ying ",
+        "bbox": [
+            349,
+            458,
+            423,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "③W ",
+        "bbox": [
+            478,
+            458,
+            517,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "④ liang ",
+        "bbox": [
+            573,
+            458,
+            657,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "⑤p ",
+        "bbox": [
+            714,
+            458,
+            752,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$⑥$ ri ",
+        "bbox": [
+            242,
+            495,
+            292,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "⑦quan ",
+        "bbox": [
+            349,
+            495,
+            423,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "⑧yun ",
+        "bbox": [
+            478,
+            495,
+            541,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$⑨$ ye ",
+        "bbox": [
+            596,
+            495,
+            647,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "⑩wu ",
+        "bbox": [
+            702,
+            495,
+            752,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.声母： ③⑤",
+        "bbox": [
+            58,
+            532,
+            369,
+            552
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. 三拼音节：_____④⑦",
+        "bbox": [
+            410,
+            532,
+            675,
+            552
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. 整体认读音节： ①②⑥⑧⑨⑩",
+        "bbox": [
+            55,
+            569,
+            485,
+            590
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二、拼音音节拼写与拼读。（本大题共3小题，第1小题8分，第2小题11分，第3小题10分；共29分）",
+        "text_level": 1,
+        "bbox": [
+            55,
+            602,
+            939,
+            648
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. 拼一拼，选一选，在正确的读音后面打“√”。（本题共4小题，共8分）",
+        "bbox": [
+            58,
+            661,
+            828,
+            682
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/557b945197e1bed30c9e9ef969394425d8ee20a8498e08529460d85ffc97242d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            60,
+            693,
+            206,
+            766
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d086415a825b508dfdb60a081d08172a633a10fc41d8035220cd75174b78d66f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            290,
+            694,
+            381,
+            778
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/240fed3de2597a8b717dd70ad7ae80f7f909593532499fea6b135c01ab851831.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            702,
+            660,
+            770
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fe0c7bb4cc08b71451c77140efcc6cd07ab8933149a79b1142e22f2cdf122ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            757,
+            694,
+            870,
+            778
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "yanjin （ ）",
+        "bbox": [
+            53,
+            791,
+            240,
+            812
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "tái dēn (   ) ",
+        "bbox": [
+            278,
+            793,
+            460,
+            810
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "qing tin ",
+        "bbox": [
+            502,
+            793,
+            697,
+            810
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "mi fong ( ) ",
+        "bbox": [
+            737,
+            793,
+            907,
+            810
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "yan jing ( ",
+        "bbox": [
+            53,
+            829,
+            240,
+            848
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "tái dēng ( √ ) ",
+        "bbox": [
+            280,
+            829,
+            460,
+            847
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "qing ting ( √ ) ",
+        "bbox": [
+            502,
+            829,
+            697,
+            848
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "mi fēng ( √ ) ",
+        "bbox": [
+            737,
+            829,
+            907,
+            847
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.读一读，填一填。（本题共9小题，每空1分，共11分）",
+        "bbox": [
+            55,
+            865,
+            662,
+            885
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/700ad58906eac19a06c226c4721a02157e941498c359a7772d8991193c4a8058.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            65,
+            903,
+            267,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/caa8901cce6b3fdf74134b6f20f7ad4f2a9f109f40ca28e68562ecd57c06e6eb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            337,
+            903,
+            512,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec9a69cacd602d169de19614e936146e2e80b709aad1d65fbc10ac4b563be0f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            584,
+            903,
+            860,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            322,
+            952,
+            455,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "第5页（共8页）",
+        "bbox": [
+            507,
+            952,
+            665,
+            970
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d929daac01d60bec530d40f22403e8bedbcc0cad4b7ed2062b2a4d9597b805b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            49,
+            250,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b42065a1f66630e34760143ec33495598e9b9a4aa608500a58694dce757e4162.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            347,
+            49,
+            512,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e10e144061baa60202dfd56d8dc5b25ad700219f75b8aa77e2c792696893b86.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            576,
+            49,
+            873,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffc1d7ce449ab568bb953405fff0a10c69b7e73f8a4480bb1d09a10b13523080.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            105,
+            263,
+            142
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e1299f52244bd7efc5f8b4724ab0387d7b8f436de104eadcdbe3b60ac7cf42.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            347,
+            105,
+            542,
+            142
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a75eb21185d479de126ada00695b582381f17be51d64b23d662f5d8a2fda8677.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            574,
+            105,
+            897,
+            142
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. 读一读下列句子，用“____”画出错误的音节并改正。（本题每空1分，共10分）",
+        "bbox": [
+            53,
+            161,
+            931,
+            183
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）zì jǐ de sì qing zì jǐ zhuò. ",
+        "bbox": [
+            63,
+            200,
+            443,
+            219
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（si）--（shi）",
+        "bbox": [
+            100,
+            236,
+            356,
+            254
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（ zhuò）--（ zuò）",
+        "bbox": [
+            431,
+            236,
+            709,
+            254
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) xiǎo wén hé dà da zài zhé zǐ. ",
+        "bbox": [
+            63,
+            274,
+            455,
+            294
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（da）--（ba）",
+        "bbox": [
+            100,
+            310,
+            339,
+            330
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（da）--（ba）",
+        "bbox": [
+            410,
+            310,
+            645,
+            330
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（zǐ）--（zhi）",
+        "bbox": [
+            717,
+            311,
+            939,
+            330
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三、按要求完成题目。（本大题共3小题，第1小题8分，第2小题9分，第3小题8分；共25分）",
+        "text_level": 1,
+        "bbox": [
+            53,
+            343,
+            937,
+            362
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. 按要求变新字再组词。（本题共4小题，每小题2分，共8分）",
+        "bbox": [
+            53,
+            375,
+            721,
+            394
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "加一笔：人→（大人）",
+        "bbox": [
+            77,
+            404,
+            410,
+            455
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "口→ 日 日子",
+        "bbox": [
+            566,
+            404,
+            816,
+            455
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "加两笔：人→（天上）",
+        "bbox": [
+            73,
+            460,
+            403,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "口→ 目 （目光）",
+        "bbox": [
+            564,
+            460,
+            810,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.圈一圈，填一填。（本题共2小题，共9分）",
+        "bbox": [
+            53,
+            523,
+            531,
+            543
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）从图中找到“山”“花朵”“云”，并用“◎”圈起来。（共3分）",
+        "bbox": [
+            63,
+            558,
+            766,
+            580
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0602ce9c01ffcce05c73257a795f5d42917aef41d65fc708f65d5175fb0e74b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            327,
+            592,
+            668,
+            771
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）选择合适的量词填空。（填序号）（共6分）",
+        "bbox": [
+            63,
+            782,
+            554,
+            801
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)只 ",
+        "bbox": [
+            225,
+            819,
+            275,
+            839
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "②朵 ",
+        "bbox": [
+            389,
+            819,
+            440,
+            839
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)座",
+        "bbox": [
+            554,
+            819,
+            606,
+            839
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)条 ",
+        "bbox": [
+            719,
+            819,
+            769,
+            839
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）山",
+        "bbox": [
+            126,
+            854,
+            295,
+            876
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）花",
+        "bbox": [
+            398,
+            856,
+            566,
+            876
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鸟",
+        "bbox": [
+            668,
+            857,
+            835,
+            876
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鱼",
+        "bbox": [
+            126,
+            892,
+            295,
+            913
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）鸡",
+        "bbox": [
+            398,
+            894,
+            566,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一（ ）云",
+        "bbox": [
+            668,
+            894,
+            835,
+            913
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.口语交际，选择合适的词语填空。（本题共4小题，每小题2分，共8分）",
+        "bbox": [
+            53,
+            929,
+            836,
+            950
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            322,
+            953,
+            455,
+            967
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "第6页（共8页）",
+        "bbox": [
+            507,
+            953,
+            665,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "①早上好 ②请 （1）有事请人帮忙，你要说：“ ② 。”",
+            "① 谢谢 ② 对不起 （2）别人帮助里你，你要说：“ ① ”",
+            "①来啦 ②早上好 (3)早上上学见到老师,你要说：“老师, ②。”",
+            "①对不起 ②没关系 （4）你不小心弄坏同桌的铅笔，你要说：“ ① ”"
+        ],
+        "bbox": [
+            77,
+            49,
+            929,
+            181
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四、阅读短文，回答问题。（本大题共4小题，第1小题2分，第2小题3分，第3小题3分，第4小题2分；本大题共10分）",
+        "text_level": 1,
+        "bbox": [
+            53,
+            195,
+            939,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "phonetic",
+        "text": "chí páng gē ",
+        "bbox": [
+            445,
+            247,
+            549,
+            260
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "翅膀歌",
+        "text_level": 1,
+        "bbox": [
+            445,
+            262,
+            549,
+            280
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "phonetic",
+        "text": "yàn zǐ shì chūn tiān de chì páng qīng tíng shì xià tiān de chì páng ",
+        "bbox": [
+            178,
+            285,
+            796,
+            298
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "燕子是春天的翅膀。蜻蜓是夏天的翅膀。",
+        "bbox": [
+            178,
+            298,
+            803,
+            318
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "phonetic",
+        "text": "dà yàn shì qū tiān de chí páng xuě hǔ shì dòng tiān de chí páng ",
+        "bbox": [
+            186,
+            322,
+            786,
+            335
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "大雁是秋天的翅膀。雪花是冬天的翅膀。",
+        "bbox": [
+            186,
+            335,
+            794,
+            355
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "phonetic",
+        "text": "li xiǎng shì wǒ men de chì páng zhǎn chì xiàng wèi lái fēi xiáng ",
+        "bbox": [
+            193,
+            359,
+            781,
+            370
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "理想是我们的翅膀，展翅向未来飞翔。",
+        "bbox": [
+            193,
+            373,
+            789,
+            392
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.这首儿歌共有（5）句话。（2分）",
+            "2.这首儿歌中出现的小动物有哪些？用“O”圈出来。（3分）",
+            "3. 儿歌中出现了哪几个季节？（①②③④）（多选题）（3分）"
+        ],
+        "bbox": [
+            53,
+            403,
+            702,
+            495
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "①春天",
+        "bbox": [
+            176,
+            514,
+            252,
+            533
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "②夏天",
+        "bbox": [
+            368,
+            514,
+            440,
+            533
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)秋天 ",
+        "bbox": [
+            554,
+            514,
+            628,
+            533
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "④冬天",
+        "bbox": [
+            742,
+            514,
+            816,
+            533
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. 什么是“我们”的翅膀？请你用“ ”画出来。（2分）",
+        "bbox": [
+            53,
+            550,
+            690,
+            570
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "五、看图写话。（本大题共1小题，请将答案书写在下方的答题纸上，注意书写要清洗，卷面要整洁；本大题共9分）",
+        "text_level": 1,
+        "bbox": [
+            53,
+            583,
+            937,
+            630
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4247d236a81a657b75cc398c7d13fb4dfccdb507424aaca25d11c0fc73fc2d66.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            357,
+            640,
+            638,
+            869
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "题目：观察图片，图片中是什么季节？都有谁？它们在干什么？请用几句话写下来吧。",
+        "bbox": [
+            53,
+            883,
+            937,
+            904
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "评分标准：1. 句子通顺；2. 拼音书写正确；3. 无错别字；",
+        "bbox": [
+            53,
+            913,
+            552,
+            929
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. 标点符号使用正确 5. 书写格式正确；6. 图画意思表达清晰。",
+        "bbox": [
+            154,
+            932,
+            697,
+            948
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "一年级语文试题",
+        "bbox": [
+            322,
+            953,
+            455,
+            967
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "第7页（共8页）",
+        "bbox": [
+            507,
+            954,
+            663,
+            969
+        ],
+        "page_idx": 6
+    }
+]

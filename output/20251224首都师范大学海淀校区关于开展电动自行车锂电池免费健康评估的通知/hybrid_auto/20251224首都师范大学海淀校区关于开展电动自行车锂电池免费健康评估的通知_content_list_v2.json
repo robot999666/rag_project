@@ -1,0 +1,378 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "首都师范大学海淀校区"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                347,
+                108,
+                653,
+                133
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于开展电动自行车锂电池免费健康评估的通知"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                181,
+                143,
+                818,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "海淀各校区全体师生员工："
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                218,
+                430,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为进一步筑牢校园电动自行车安全防线，有效防范因电池老化、故障等引发的安全事故，切实保障广大师生员工生命财产安全，根据《北京市非机动车管理条例》“电动自行车电池超过生产日期五年的，应当进行安全性评估；未通过安全性评估的，应当停止使用”相关规定，学校联合八里庄街道在校本部、北一区组织开展电动自行车锂电池免费健康评估活动，现将具体安排通知如下："
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                253,
+                882,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、评估范围"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                502,
+                339,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "海淀各校区师生员工的已经安装校制电子号牌的电动自行车锂电池，应检尽检。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                538,
+                878,
+                595
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、评估时间及地点"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                609,
+                420,
+                631
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c475d734b4df1e912fc7572411699336134c0859648e794c6c52fca2b71056ad.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>评估日期</td><td>评估时间</td><td>评估地点</td></tr><tr><td>12月26日(周五)</td><td>14:00-17:00</td><td>北一区图书馆广场</td></tr><tr><td>12月29日(周一)</td><td>09:30-11:30 13:00-17:00</td><td>校本部学活广场</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                136,
+                633,
+                867,
+                747
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、评估内容"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                753,
+                339,
+                777
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（一）电池外观检查（是否存在鼓包、破损、漏液等情况）；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（二）电池电压、内阻评估（判断电池健康状态）；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（三）充电接口安全性评估；"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                789,
+                877,
+                885
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（四）电池续航能力评估及养护建议。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                111,
+                621,
+                134
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、参与方式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                146,
+                342,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本次活动为免费公益性质，无需提前报名。请广大师生员工按照评估时间自行骑行电动自行车至评估地点进行评估。"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                181,
+                882,
+                241
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "五、温馨提示"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                253,
+                342,
+                275
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（一）请广大师生员工根据自己时间安排，合理选择评估地点，避免跑空；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（二）评估过程中请遵守现场秩序，依次进行、避免拥挤，自觉维护环境卫生；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（三）此次活动未参与评估的师生员工，学校将不再集中组织评估，请关注其他相关通知另行评估。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（四）如遇问题，请拨打联系电话：010—68902751。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                288,
+                882,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "特此通知。"
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                574,
+                300,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "保卫处"
+                    }
+                ]
+            },
+            "bbox": [
+                616,
+                717,
+                700,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025 年 12 月 24 日"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                752,
+                756,
+                772
+            ]
+        }
+    ]
+]
